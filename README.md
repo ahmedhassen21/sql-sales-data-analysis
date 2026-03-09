@@ -1,4 +1,5 @@
 # Sales Data Analysis Project (SQL)
+SQL | Data Analysis | Portfolio Project
 
 ## Project Overview
 
